@@ -14,3 +14,4 @@ Udemy 부트캠프 강의를 들으며 매일 학습한 내용을 기록합니�
 | **Day 07** | [CSS Box Model & Layout]|박스 모델(Margin/Padding), 선택자(ID/Class)와 결합자, 시맨틱 레이아웃
 | **Day 08** | [Advanced CSS & Practice](./Day08_Advanced_CSS) | Block vs Inline, 마진 병합(Collapsing), Box-shadow, 음수 마진(Negative Margin) |
 | **Day 09** | [Core Structure & Header Styling](./Day09_Web_Architecture) | 시맨틱 태그(header/nav/main), Flexbox 기초(메뉴 가로 배치), 박스 모델 실전 적용(여백 최적화) |
+| **Day 10** | [Finalizing Layout & Organizing Files](./Day10_Finalizing_Layout_Project_Organization) | 리스트/링크 스타일링, 푸터(footer) 추가, 시맨틱 요소 확장, 파일 경로 체계화 |
