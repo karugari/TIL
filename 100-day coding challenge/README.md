@@ -16,3 +16,5 @@ Udemy 부트캠프 강의를 들으며 매일 학습한 내용을 기록합니�
 | **Day 09** | [Core Structure & Header Styling](./Day09_Web_Architecture) | 시맨틱 태그(header/nav/main), Flexbox 기초(메뉴 가로 배치), 박스 모델 실전 적용(여백 최적화) |
 | **Day 10** | [Finalizing Layout & Organizing Files](./Day10_Finalizing_Layout_Project_Organization) | 리스트/링크 스타일링, 푸터(footer) 추가, 시맨틱 요소 확장, 파일 경로 체계화 |
 | **Day 11** | [Deployment & Git Intro](./Day11_Deployment_Git_Intro)	|Netlify 배포, HTTPS/Favicon, 상대/절대 경로, Git vs GitHub 개념, CLI 기초|
+[Git Installation & First Commit](./Day12_Git_Installation_First_Commit)
+| **Day 12** | [Git Installation & First Commit](./Day12_Git_Installation_First_Commit) | CLI(CMD) 기초, Git 3대 영역 이해, `git init`/`add`/`commit` 실습, 사용자 정보 설정 |
