@@ -17,3 +17,4 @@ Udemy 부트캠프 강의를 들으며 매일 학습한 내용을 기록합니�
 | **Day 10** | [Finalizing Layout & Organizing Files](./Day10_Finalizing_Layout_Project_Organization) | 리스트/링크 스타일링, 푸터(footer) 추가, 시맨틱 요소 확장, 파일 경로 체계화 |
 | **Day 11** | [Deployment & Git Intro](./Day11_Deployment_Git_Intro)	|Netlify 배포, HTTPS/Favicon, 상대/절대 경로, Git vs GitHub 개념, CLI 기초|
 | **Day 12** | [Git Installation & First Commit](./Day12_Git_Installation_First_Commit) | CLI(CMD) 기초, Git 3대 영역 이해, `git init`/`add`/`commit` 실습, 사용자 정보 설정 |
+| **Day 13** | [Git Mastery & GitHub Introduction](./Day13_Git_Mastery_GitHub_Introduction) | 브랜치(Branch)/병합(Merge), 충돌 해결, 코드 복구(Revert), GitHub 계정 및 원격 저장소 생성 |
