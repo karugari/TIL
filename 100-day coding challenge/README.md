@@ -19,3 +19,4 @@ Udemy 부트캠프 강의를 들으며 매일 학습한 내용을 기록합니�
 | **Day 12** | [Git Installation & First Commit](./Day12_Git_Installation_First_Commit) | CLI(CMD) 기초, Git 3대 영역 이해, `git init`/`add`/`commit` 실습, 사용자 정보 설정 |
 | **Day 13** | [Git Mastery & GitHub Introduction](./Day13_Git_Mastery_GitHub_Introduction) | 브랜치(Branch)/병합(Merge), 충돌 해결, 코드 복구(Revert), GitHub 계정 및 원격 저장소 생성 |
 | **Day 14** | [GitHub Deep Dive & Collaboration](./Day14_GitHub_Deep_Dive_Collaboration) | `git clone`, PAT 인증 심화, 팀 협업(Collaborators), 오픈 소스 기여(Fork/PR) 프로세스 |
+| **Day 15** | [CSS Flexbox Layout Basics](./Day15_CSS_Flexbox_Layout_Basics) | Landing Page 구조 설계, Flexbox 컨테이너 개념, `justify-content` 및 `align-items` 정렬 실습 |
