@@ -21,3 +21,4 @@ Udemy 부트캠프 강의를 들으며 매일 학습한 내용을 기록합니�
 | **Day 14** | [GitHub Deep Dive & Collaboration](./Day14_GitHub_Deep_Dive_Collaboration) | `git clone`, PAT 인증 심화, 팀 협업(Collaborators), 오픈 소스 기여(Fork/PR) 프로세스 |
 | **Day 15** | [CSS Flexbox Layout Basics](./Day15_CSS_Flexbox_Layout_Basics) | Landing Page 구조 설계, Flexbox 컨테이너 개념, `justify-content` 및 `align-items` 정렬 실습 |
 | **Day 16** | [CSS Positioning & Hero Section](./Day16_CSS_Positioning_Hero_Section) | Flexbox 심화 적용, `background-size: cover`, `fixed` 및 `absolute` 포지셔닝의 원리 정복 |
+**Day 17** | [Advanced Layout & Highlights Section](./Day17_Advanced_Layout_Highlights) | `%` 단위를 활용한 유연한 레이아웃, `object-fit`을 이용한 이미지 비율 최적화, 다중 Flex 아이템 배치 전략 |
