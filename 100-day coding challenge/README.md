@@ -24,3 +24,4 @@ Udemy 부트캠프 강의를 들으며 매일 학습한 내용을 기록합니�
 | **Day 17** | [Advanced Layout & Highlights Section](./Day17_Advanced_Layout_Highlights) | `%` 단위를 활용한 유연한 레이아웃, `object-fit`을 이용한 이미지 비율 최적화, 다중 Flex 아이템 배치 전략 |
 | **Day 18** | [Layout Nuances & Site Expansion](./Day18_Layout_Nuances_Site_Expansion)	| 마진 병합(Margin Collapsing) 해결, CSS 그라데이션 함수 활용, 푸터(Footer) 디자인, 다중 페이지(places.html) 구조 설계 |
 | **Day 19** | [Advanced Layouts & CSS Grid](./Day19_Advanced_Layouts_CSS_Grid) | 카드 UI 디자인 완성, overflow 속성의 이해, CSS Grid 이론 및 기초 활용, nth-of-type 선택자를 이용한 정밀 타겟팅 |
+| **Day 20** | [Grid Mastery & Responsive Basics](./Day20_Grid_Mastery_Responsive_Basics)	| 그리드 챌린지 해결, 유니코드(UTF-8) 설정, 레이아웃 핵심(Position/Flex/Grid) 심화 복습, 반응형 웹 디자인 입문 및 구조 설계 |
