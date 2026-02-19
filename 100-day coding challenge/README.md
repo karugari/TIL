@@ -27,3 +27,4 @@ Udemy 부트캠프 강의를 들으며 매일 학습한 내용을 기록합니�
 | **Day 20** | [Grid Mastery & Responsive Basics](./Day20_Grid_Mastery_Responsive_Basics)	| 그리드 챌린지 해결, 유니코드(UTF-8) 설정, 레이아웃 핵심(Position/Flex/Grid) 심화 복습, 반응형 웹 디자인 입문 및 구조 설계 |
 | **Day 21** | [Responsive Units & Layout Styling](./Day21_Responsive_Units_Layout_Styling) | 헤더/메인 스타일링, 반응형 디자인 정의, 픽셀의 한계, 상대 단위($\%$, $em$, $rem$)의 개념 |
 | **Day 22** | [Mastering Units & Media Queries](./Day22_Mastering_Units_Media_Querie) | $em$/$rem$ 실전 적용, Desktop vs Mobile First 전략, 미디어 쿼리 문법 및 브레이크포인트 활용 |
+| **Day 23** |	[Responsive UI & Mobile Navigation](./Day23_Responsive_UI_Mobile_Navigation)| 미디어 쿼리 적용, Hamburger icon 제작, SideDrawer 레이아웃, HTML 내부 링크(ID 참조) 원리 이해|
