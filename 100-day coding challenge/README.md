@@ -28,3 +28,5 @@ Udemy 부트캠프 강의를 들으며 매일 학습한 내용을 기록합니�
 | **Day 21** | [Responsive Units & Layout Styling](./Day21_Responsive_Units_Layout_Styling) | 헤더/메인 스타일링, 반응형 디자인 정의, 픽셀의 한계, 상대 단위($\%$, $em$, $rem$)의 개념 |
 | **Day 22** | [Mastering Units & Media Queries](./Day22_Mastering_Units_Media_Querie) | $em$/$rem$ 실전 적용, Desktop vs Mobile First 전략, 미디어 쿼리 문법 및 브레이크포인트 활용 |
 | **Day 23** |	[Responsive UI & Mobile Navigation](./Day23_Responsive_UI_Mobile_Navigation)| 미디어 쿼리 적용, Hamburger icon 제작, SideDrawer 레이아웃, HTML 내부 링크(ID 참조) 원리 이해|
+| **Day 24** |	[Interactive CSS & Design Principles](./Day24_Interactive_CSS_Design_Principles) |:target 선택자 실전 활용, 사이드 드로워 완성, z-index 계층 관리, 타이포그래피 및 컬러 팔레트 설계 |
+| **Day 25** |	[Dynamic Styles & Design System](./Day25_Dynamic_Styles_Design_System) | CSS 변수(var())를 이용한 중앙 제어 시스템 구축, :root 선택자 활용, Transform/Transition을 통한 인터랙티브 UI 구현, SVG 벡터 그래픽 기초|
