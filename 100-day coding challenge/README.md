@@ -34,3 +34,4 @@ Udemy 부트캠프 강의를 들으며 매일 학습한 내용을 기록합니�
 | **Day 27** |	[Advanced Form UI & Input Types](Advanced_Form_UI_Input_Types)	|폼 요소의 CSS 스타일링 기법, <label>을 이용한 접근성 향상, 데이터 성격에 따른 input 타입(Email, Password, Date 등) 최적화, 라디오 버튼 구현|
 | **Day 28** |	[Advanced Data Collection & Validation](.Advanced_Data_Collection_Validation)	| 체크박스(checkbox), 장문 입력(textarea), 드롭다운(select), 폼의 구조화(fieldset), 버튼의 유형, 브라우저 내장 검증 속성 활용|
 | **Day 29**| [JS Basics & Form Challenge](.JS_Basics_Form_Challenge)	| 폼 실전 챌린지 완수, 자바스크립트의 역할(동적 제어), 변수(Variables)와 값(String, Number)의 정의|
+| **Day 30** |[JS Core Fundamentals & Data Structures](.JS_Core_Fundamentals_Data_Structures)|<script> 연결 방식, 변수 선언 및 문법 규칙, 외부 JS 파일 분리, 배열(Arrays)과 객체(Objects) 기초|
