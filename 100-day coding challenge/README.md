@@ -36,3 +36,5 @@ Udemy 부트캠프 강의를 들으며 매일 학습한 내용을 기록합니�
 | **Day 29**| [JS Basics & Form Challenge](.JS_Basics_Form_Challenge)	| 폼 실전 챌린지 완수, 자바스크립트의 역할(동적 제어), 변수(Variables)와 값(String, Number)의 정의|
 | **Day 30** |[JS Core Fundamentals & Data Structures](.JS_Core_Fundamentals_Data_Structures)|<script> 연결 방식, 변수 선언 및 문법 규칙, 외부 JS 파일 분리, 배열(Arrays)과 객체(Objects) 기초|
 | **Day 31**	|[JS Operations & Functions](.JS_Operations_Functions)	| 코드 가독성(Multi-line), 객체 속성 접근(Dot notation), 기본 연산자, 함수(Functions)의 정의와 매개변수/반환값 |
+| **Day 32**|[JS Practice & Advanced Operations](.JS_Practice_Advanced_Operations)	|실전 연습 과제, 객체 내 함수인 메서드(Methods), 디버깅을 위한 console.log(), 나머지 연산자(%), 단축 연산자 및 문자열 조작|
+| **Day 33** |[DOM Mastery & Advanced JS](.DOM_Mastery_Advanced_JS)	|배열 조작(Push/Pop), 코드 분할, window/document 객체, DOM 트리 구조, 요소 선택 및 조작|
