@@ -38,3 +38,4 @@ Udemy 부트캠프 강의를 들으며 매일 학습한 내용을 기록합니�
 | **Day 31**	|[JS Operations & Functions](.JS_Operations_Functions)	| 코드 가독성(Multi-line), 객체 속성 접근(Dot notation), 기본 연산자, 함수(Functions)의 정의와 매개변수/반환값 |
 | **Day 32**|[JS Practice & Advanced Operations](.JS_Practice_Advanced_Operations)	|실전 연습 과제, 객체 내 함수인 메서드(Methods), 디버깅을 위한 console.log(), 나머지 연산자(%), 단축 연산자 및 문자열 조작|
 | **Day 33** |[DOM Mastery & Advanced JS](.DOM_Mastery_Advanced_JS)	|배열 조작(Push/Pop), 코드 분할, window/document 객체, DOM 트리 구조, 요소 선택 및 조작|
+| **Day 34** |	[Efficient DOM Interaction](.Efficient_DOM_Interaction)	| 텍스트 노드의 실체, Drilling의 한계, Query Methods(querySelector), 요소 동적 생성 및 삽입|
