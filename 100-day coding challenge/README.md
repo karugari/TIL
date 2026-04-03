@@ -40,3 +40,4 @@ Udemy 부트캠프 강의를 들으며 매일 학습한 내용을 기록합니�
 | **Day 33** |[DOM Mastery & Advanced JS](.DOM_Mastery_Advanced_JS)	|배열 조작(Push/Pop), 코드 분할, window/document 객체, DOM 트리 구조, 요소 선택 및 조작|
 | **Day 34** |	[Efficient DOM Interaction](.Efficient_DOM_Interaction)	| 텍스트 노드의 실체, Drilling의 한계, Query Methods(querySelector), 요소 동적 생성 및 삽입|
 | **Day 35** |[Interactive DOM & Events](.Interactive_DOM_Events) |	요소 삭제(remove) 및 이동, innerHTML 활용, 이벤트 리스너(addEventListener) 및 event 객체 분석|
+| **Day 36** |	[Advanced Styling & Constants](.Advanced_Styling_Constants)	|const 변수의 도입, 자바스크립트로 스타일 및 CSS 클래스(classList) 제어, 실습 프로젝트 완성|
