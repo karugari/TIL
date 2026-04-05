@@ -46,3 +46,4 @@ Udemy 부트캠프 강의를 들으며 매일 학습한 내용을 기록합니�
 | **Day 39** |[Applied Loops & Summary](.Applied_Loops_Summary) |실전 예제 구현(숫자 합산, DOM 순회, 객체 분석, 조건부 반복), 루프 선택 전략 완성|
 | **Day 40** |	[Systemic Integration](.Systemic_Integration)	|프로젝트 설계(Planning), 시맨틱 골조(HTML) 구축, 기본 시각 통제(Base CSS) |
 | **Day 41** |	[Layout & JS Control](.Layout_JS_Control)|	Flexbox/Grid를 활용한 공간 배치, JS 스크립트 분리 운영, DOM 조작을 통한 모달 제어 |
+| **Day 42** |	[Data Handling](.Data_Handling)	|preventDefault()를 통한 제출 제어, 입력값 유효성 검사, 배열/객체를 이용한 상태 관리|
