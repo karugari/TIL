@@ -43,3 +43,5 @@ Udemy 부트캠프 강의를 들으며 매일 학습한 내용을 기록합니�
 | **Day 36** |	[Advanced Styling & Constants](.Advanced_Styling_Constants)	|const 변수의 도입, 자바스크립트로 스타일 및 CSS 클래스(classList) 제어, 실습 프로젝트 완성|
 | **Day 37** | [Logic & Decision Making](.Logic_Decision_Making) |	실전 연습 문제, **불리언(Booleans)**과 비교 연산자, if 조건문을 이용한 코드의 분기 제어|
 | **Day 38** |	[Strategic Control & Loops](.Strategic_Control_Loops) |	else / else if를 통한 다중 분기, Truthy/Falsy 시스템의 이해, **4가지 반복문(for, for-of, for-in, while)**을 이용한 데이터 처리 자동화|
+| **Day 39** |[Applied Loops & Summary](.Applied_Loops_Summary) |실전 예제 구현(숫자 합산, DOM 순회, 객체 분석, 조건부 반복), 루프 선택 전략 완성|
+| **Day 40** |	[Systemic Integration](.Systemic_Integration)	|프로젝트 설계(Planning), 시맨틱 골조(HTML) 구축, 기본 시각 통제(Base CSS) |
