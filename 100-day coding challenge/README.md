@@ -49,3 +49,4 @@ Udemy 부트캠프 강의를 들으며 매일 학습한 내용을 기록합니�
 | **Day 42** |	[Data Handling](.Data_Handling)	|preventDefault()를 통한 제출 제어, 입력값 유효성 검사, 배열/객체를 이용한 상태 관리|
 | **Day 43** |	[Game Execution](.Game_Execution)	|게임 섹션 활성화 및 초기화, 턴 기반 로직 설계, 2차원 배열을 이용한 보드 데이터 추적|
 | **Day 44** |	[Final Settlement](Final_Settlement)	| 승리/무승부 판독 알고리즘, 게임 종료 UI 제어, 시스템 전체 초기화(Reboot)|
+| **Day 45** |	[External Libraries & Bootstrap](.External_Libraries_Bootstrap)	|제3자 패키지(Third-Party Packages)의 개념 및 필요성, Bootstrap을 이용한 고속 UI 빌드, 외부 JS 라이브러리 결합(Carousel, Parallax), 커스텀 코드와의 통합 전략|
