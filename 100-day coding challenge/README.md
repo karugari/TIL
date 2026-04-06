@@ -50,3 +50,4 @@ Udemy 부트캠프 강의를 들으며 매일 학습한 내용을 기록합니�
 | **Day 43** |	[Game Execution](.Game_Execution)	|게임 섹션 활성화 및 초기화, 턴 기반 로직 설계, 2차원 배열을 이용한 보드 데이터 추적|
 | **Day 44** |	[Final Settlement](Final_Settlement)	| 승리/무승부 판독 알고리즘, 게임 종료 UI 제어, 시스템 전체 초기화(Reboot)|
 | **Day 45** |	[External Libraries & Bootstrap](.External_Libraries_Bootstrap)	|제3자 패키지(Third-Party Packages)의 개념 및 필요성, Bootstrap을 이용한 고속 UI 빌드, 외부 JS 라이브러리 결합(Carousel, Parallax), 커스텀 코드와의 통합 전략|
+| **Day 46** |	[The Shift to Backend](.The_Shift_to_Backend)	|패럴랙스 패키지 정밀 이식, 타사 소스 코드 분석 기법, 백엔드의 정의 및 필요성, 동적(Dynamic) 웹사이트의 구조, 풀스택으로의 로드맵|
