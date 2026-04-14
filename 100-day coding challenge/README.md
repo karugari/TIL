@@ -52,3 +52,4 @@ Udemy 부트캠프 강의를 들으며 매일 학습한 내용을 기록합니�
 | **Day 45** |	[External Libraries & Bootstrap](.External_Libraries_Bootstrap)	|제3자 패키지(Third-Party Packages)의 개념 및 필요성, Bootstrap을 이용한 고속 UI 빌드, 외부 JS 라이브러리 결합(Carousel, Parallax), 커스텀 코드와의 통합 전략|
 | **Day 46** |	[The Shift to Backend](.The_Shift_to_Backend)	|패럴랙스 패키지 정밀 이식, 타사 소스 코드 분석 기법, 백엔드의 정의 및 필요성, 동적(Dynamic) 웹사이트의 구조, 풀스택으로의 로드맵|
 | **Day 47** |	[NodeJS Basics](.NodeJS_Basics)	|환경 구축(Install), 자바스크립트의 서버 측 실행, HTTP 모듈을 이용한 서버 생성, 요청/응답 처리|
+| **Day 48** |	[Express & Data Persistence	Express](.Express_Data_Persistence_Express) | 프레임워크 도입 및 서버 구축 효율화, npm을 이용한 외부 패키지(package.json) 관리, 요청 본문(Body) 데이터 파싱 전술, fs 모듈을 활용한 서버 사이드 데이터 영속성(JSON 파일 저장) 확보|
